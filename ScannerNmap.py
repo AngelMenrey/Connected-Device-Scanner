@@ -1,4 +1,3 @@
-
 #Author: Angel Emanuel Mendoza Reyes
 import nmap
 scanner = nmap.PortScanner()
